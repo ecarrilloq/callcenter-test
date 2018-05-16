@@ -1,2 +1,5 @@
-# callcenter-test
-Ejercicio de Java, para aspirar al cargo de desarrollador senior en almundo.com
+# Callcenter-test
+Java application test for senior back end developer on almundo.com
+
+## Goal
+This application try to simulate a call dispatcher on a call center
